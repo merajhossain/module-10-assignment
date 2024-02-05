@@ -3,7 +3,7 @@
 # Getting started
 - Clone the repository
 ```
-git clone  <[git lab template url](https://github.com/merajhossain/module-10-assignment.git)> <module-10-assignment>
+git clone  (https://github.com/merajhossain/module-10-assignment.git)
 ```
 - Install dependencies
 ```
