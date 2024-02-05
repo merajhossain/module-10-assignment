@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 exports.CreateFile = ((req, res) => {
-    fs.writeFile("demo.txt", "this is demo", () => {
+    fs.writeFile("demo.txt", "hello world", () => {
         res.end("File Created");
-    })
+    });
 });
