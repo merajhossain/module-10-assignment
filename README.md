@@ -21,7 +21,7 @@ npm start
   About page (get request) - `http://localhost:5500/about` <br />
   Contact page (get request) - `http://localhost:5500/contact` <br />
   File write (post request) - `http://localhost:5500/file-write` <br />
-  File upload (post request) - `http://localhost:5500/file-upload`
+  File upload (post request) max file size 1mb - `http://localhost:5500/file-upload`
 
 # Postman collection 
   root/module-10-assignment.postman_collection.json 
