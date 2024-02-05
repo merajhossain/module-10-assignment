@@ -7,7 +7,7 @@ git clone https://github.com/merajhossain/module-10-assignment.git
 ```
 - Install dependencies
 ```
-cd <module-10-assignment>
+cd module-10-assignment
 npm install
 ```
 - Build and run the project
