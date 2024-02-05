@@ -3,7 +3,7 @@
 # Getting started
 - Clone the repository
 ```
-git clone  (https://github.com/merajhossain/module-10-assignment.git)
+git clone  (<a href="https://github.com/merajhossain/module-10-assignment.git">https://github.com/merajhossain/module-10-assignment.git</a>)
 ```
 - Install dependencies
 ```
